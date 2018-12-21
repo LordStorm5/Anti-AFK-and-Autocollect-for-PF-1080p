@@ -1,7 +1,9 @@
 This is an Anti-AFK and Autocollect script for Phantom Forces.
 
 IMPORTANT: THIS IS FOR A 1080p DISPLAY! PLEASE SEE THESE IF YOU HAVE A DIFFERENT SCREEN RESOLUTION:
+
 4K - 
+
 720p - 
 
 
@@ -18,5 +20,3 @@ v1.1
 
 v1.0
 -Release!
-
-
