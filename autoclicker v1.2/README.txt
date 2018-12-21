@@ -1,4 +1,4 @@
-IMPORTANT: THIS IS FOR A 1080p DISPLAY! PLEASE SEE THESE IF YOU HAVE A DIFFERENT SCREEN RESOLUTION
+IMPORTANT: THIS IS FOR A 1080p DISPLAY!
 
 
 Thank you for using LordStorm's autoclicker for designed for Phantom Forces.
